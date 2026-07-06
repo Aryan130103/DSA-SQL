@@ -16,7 +16,7 @@ public:
     bool canFinish(int V, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(V);
         for(auto& i:prerequisites){
-            adj[i[1]].push_back(i[0]);
+            adj[i[1]].push_back(i[0]); //directed graph
         }
 
         vector<int> vis(V,0),pathvis(V,0);
