@@ -9,6 +9,7 @@ Graph learning progress
 | [0207-course-schedule](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
+| [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,11 +19,13 @@ Graph learning progress
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +38,7 @@ Graph learning progress
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +46,7 @@ Graph learning progress
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
