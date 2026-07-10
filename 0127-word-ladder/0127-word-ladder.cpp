@@ -17,7 +17,7 @@ public:
                 char og=word[i];
                 for(char ch='a';ch<='z';ch++){
                     word[i]=ch;
-                    if(st.find(word) != st.end()){
+                    if(st.count(word)){
                         q.push({word,step+1});
                         st.erase(word);
                     }
