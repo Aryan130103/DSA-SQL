@@ -98,4 +98,12 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
