@@ -15,7 +15,7 @@ public:
             i=j;
         }
         int ans=ones;
-        for(int i=1;i+1<runs.size();i++){
+        for(int i=1;i<runs.size()-1;i++){
             if(runs[i].first=='1' && runs[i-1].first=='0' && runs[i+1].first=='0'){
                 int gain=runs[i-1].second+runs[i+1].second;
                 ans=max(ans,gain+ones);
