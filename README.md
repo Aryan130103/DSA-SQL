@@ -90,6 +90,7 @@ Graph learning progress
 | [0175-combine-two-tables](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0595-big-countries/) | Easy |
