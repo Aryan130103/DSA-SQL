@@ -96,6 +96,7 @@ Graph learning progress
 | [0596-classes-with-at-least-5-students](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0596-classes-with-at-least-5-students/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1148-article-views-i/) | Easy |
+| [1280-students-and-examinations](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1661-average-time-of-process-per-machine/) | Easy |
