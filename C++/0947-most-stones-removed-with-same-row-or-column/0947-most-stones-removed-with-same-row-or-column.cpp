@@ -19,11 +19,11 @@ class disjointset{
         if(UP==VP) return;
         
         if(size[UP]<size[VP]){
-            parent[UP]=parent[VP];
+            parent[UP]=VP;
             size[VP]+=size[UP];
         }
         else{
-            parent[VP]=parent[UP];
+            parent[VP]=UP;
             size[UP]+=size[VP];
         }
     }
