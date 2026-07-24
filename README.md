@@ -16,6 +16,7 @@ Graph learning progress
 | [0785-is-graph-bipartite](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0802-find-eventual-safe-states/) | Medium |
+| [0827-making-a-large-island](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -37,6 +38,7 @@ Graph learning progress
 | [0785-is-graph-bipartite](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0802-find-eventual-safe-states/) | Medium |
+| [0827-making-a-large-island](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -50,6 +52,7 @@ Graph learning progress
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0827-making-a-large-island](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -76,6 +79,7 @@ Graph learning progress
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
+| [0827-making-a-large-island](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -92,6 +96,7 @@ Graph learning progress
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
+| [0827-making-a-large-island](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1091-shortest-path-in-binary-matrix/) | Medium |
