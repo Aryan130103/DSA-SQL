@@ -20,6 +20,7 @@ Graph learning progress
 | [0827-making-a-large-island](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1192-critical-connections-in-a-network/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
@@ -71,6 +72,7 @@ Graph learning progress
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0802-find-eventual-safe-states/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1192-critical-connections-in-a-network/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -236,4 +238,8 @@ Graph learning progress
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
