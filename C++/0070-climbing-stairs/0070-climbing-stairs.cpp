@@ -1,15 +1,13 @@
 class Solution {
 public:
-    int climb(int n,unordered_map<int,int>& dp){
-        if(n==0 || n==1) return 1;
-        if(dp.find(n)==dp.end()){
-            dp[n]=climb(n-1,dp)+climb(n-2,dp);
-        }
-        return dp[n];
-    }
-
     int climbStairs(int n){
-        unordered_map<int,int> dp;
-        return climb(n,dp);
+        if(n==0 || n==1) return 1;
+        int p1=1,p2=1,temp=0;
+        for(int i=2;i<=n;i++){
+            temp=p1+p2;
+            p2=p1;
+            p1=temp;
+        }
+        return p1;
     }
 };
