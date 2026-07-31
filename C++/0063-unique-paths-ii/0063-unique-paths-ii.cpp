@@ -7,8 +7,8 @@ private:
         
         if(grid[i][j]==1) return 0;
         
-        int up=grid[i][j]+ f(i-1,j,grid,dp);
-        int left=grid[i][j]+ f(i,j-1,grid,dp);
+        int up=f(i-1,j,grid,dp);
+        int left=f(i,j-1,grid,dp);
         
         return dp[i][j]=up+left; 
     }
