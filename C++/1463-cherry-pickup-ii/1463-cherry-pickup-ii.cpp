@@ -13,7 +13,7 @@ private:
         
 
         int cherry=(c1==c2)?grid[r1][c1]: grid[r1][c1]+grid[r1][c2];
-
+/*
         int ans=max({f(r1+1,c1,c2,grid,dp),//down down
                     f(r1+1,c1+1,c2+1,grid,dp),//dr dr
                     f(r1+1,c1-1,c2-1,grid,dp),//dl dl
@@ -23,7 +23,13 @@ private:
                     f(r1+1,c1-1,c2,grid,dp),//dl d
                     f(r1+1,c1+1,c2,grid,dp),//dr d
                     f(r1+1,c1+1,c2-1,grid,dp)});//dr dl
-        
+*/      int ans=0;
+        for(int x=-1;x<=1;x++){
+            for(int y=-1;y<=1;y++){
+                ans=max(ans,(f(r1+1,c1+x,c2+y,grid,dp)));
+            }
+        }
+
         return dp[r1][c1][c2]=cherry+ans; 
     }
 public:
