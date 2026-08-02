@@ -100,6 +100,7 @@ Graph learning progress
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1260-shift-2d-grid/) | Easy |
+| [1463-cherry-pickup-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3312-sorted-gcd-pair-queries/) | Hard |
@@ -122,6 +123,7 @@ Graph learning progress
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1260-shift-2d-grid/) | Easy |
+| [1463-cherry-pickup-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@ Graph learning progress
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
