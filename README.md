@@ -328,4 +328,8 @@ Graph learning progress
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
