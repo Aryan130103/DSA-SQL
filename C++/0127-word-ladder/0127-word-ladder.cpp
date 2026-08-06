@@ -6,25 +6,25 @@ public:
         queue<pair<string,int>> q;
         q.push({beginWord,1});
         st.erase(beginWord);
-         while(!q.empty()){
-            string word=q.front().first;
-            int step=q.front().second;
+        while(!q.empty()){
+            auto it=q.front();
+            string word=it.first;
+            int cnt=it.second;
             q.pop();
-
-            if(word==endWord) return step;
+            if(word==endWord) return cnt;
 
             for(int i=0;i<word.size();i++){
                 char og=word[i];
                 for(auto ch='a';ch<='z';ch++){
                     word[i]=ch;
                     if(st.count(word)){
-                        q.push({word,step+1});
+                        q.push({word,cnt+1});
                         st.erase(word);
                     }
                 }
-                word[i]=og;        
+                word[i]=og;
             }
-         }
+        }
         return 0;
     }
 };
