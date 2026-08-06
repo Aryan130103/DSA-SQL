@@ -228,6 +228,7 @@ Graph learning progress
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3312-sorted-gcd-pair-queries/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -310,6 +311,7 @@ Graph learning progress
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Bit Manipulation
