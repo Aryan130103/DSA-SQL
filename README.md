@@ -95,6 +95,7 @@ Graph learning progress
 | [0416-partition-equal-subset-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
@@ -184,6 +185,7 @@ Graph learning progress
 | [0322-coin-change](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0741-cherry-pickup](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0741-cherry-pickup/) | Hard |
@@ -219,6 +221,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
+| [0494-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0494-target-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,11 +370,13 @@ Graph learning progress
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0494-target-sum/) | Medium |
 ## Meet in the Middle
 | Problem Name | Difficulty |
 | ------- | ------- |
