@@ -364,6 +364,7 @@ Graph learning progress
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0127-word-ladder/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
