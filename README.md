@@ -191,6 +191,7 @@ Graph learning progress
 | [0741-cherry-pickup](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -213,6 +214,7 @@ Graph learning progress
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -408,4 +410,8 @@ Graph learning progress
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0518-coin-change-ii/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
