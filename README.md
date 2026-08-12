@@ -199,6 +199,7 @@ Graph learning progress
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1463-cherry-pickup-ii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1510-stone-game-iv/) | Hard |
@@ -226,6 +227,7 @@ Graph learning progress
 | [0516-longest-palindromic-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0516-longest-palindromic-subsequence/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
