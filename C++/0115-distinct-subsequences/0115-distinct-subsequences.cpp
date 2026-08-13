@@ -14,7 +14,7 @@ private:
 public:
     int numDistinct(string s, string t) {
         int n=s.size(),m=t.size();
-        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
+        vector<vector<int>>dp(n,vector<int>(m,-1));
         return f(n-1,m-1,s,t,dp);
     }
 };
