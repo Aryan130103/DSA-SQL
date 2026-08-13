@@ -16,11 +16,10 @@ public:
         int n=s.size(),m=t.size();
         //vector<vector<double>>dp(n+1,vector<double>(m+1,0));
         vector<double>prev(m+1,0),curr(m+1,0);
-         prev[0]=1;
+         prev[0]=curr[0]=1;
        // for(int j=1;j<=m;j++) dp[0][j]=0;  since all dp value is already 0
 
         for(int i=1;i<=n;i++){
-            curr[0]=1;
             for(int j=1;j<=m;j++){
                 if(s[i-1]==t[j-1])
                    curr[j]=prev[j-1] + prev[j];
