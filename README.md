@@ -115,6 +115,7 @@ Graph learning progress
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -236,6 +237,7 @@ Graph learning progress
 | [1092-shortest-common-supersequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -425,6 +427,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,4 +478,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1510-stone-game-iv/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
