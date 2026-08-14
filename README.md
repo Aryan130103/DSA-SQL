@@ -222,6 +222,7 @@ Graph learning progress
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3731-find-missing-elements/) | Easy |
@@ -242,6 +243,7 @@ Graph learning progress
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -456,6 +458,7 @@ Graph learning progress
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
