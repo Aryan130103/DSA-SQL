@@ -88,6 +88,7 @@ Graph learning progress
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
@@ -190,6 +191,7 @@ Graph learning progress
 | [0115-distinct-subsequences](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0322-coin-change/) | Medium |
@@ -384,6 +386,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
