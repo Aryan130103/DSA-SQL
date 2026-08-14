@@ -489,4 +489,12 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
