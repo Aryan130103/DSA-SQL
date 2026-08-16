@@ -95,6 +95,7 @@ Graph learning progress
 | [0198-house-robber](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0416-partition-equal-subset-sum/) | Medium |
@@ -201,6 +202,7 @@ Graph learning progress
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0416-partition-equal-subset-sum/) | Medium |
@@ -309,6 +311,7 @@ Graph learning progress
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0778-swim-in-rising-water/) | Hard |
@@ -513,4 +516,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0785-is-graph-bipartite/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
