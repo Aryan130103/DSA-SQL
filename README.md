@@ -166,6 +166,7 @@ Graph learning progress
 | [0584-find-customer-referee](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0596-classes-with-at-least-5-students/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1075-project-employees-i/) | Easy |
