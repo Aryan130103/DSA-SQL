@@ -11,19 +11,16 @@ public:
                         dp[i]=dp[j]+1;
                         count[i]=count[j];
                     }
-                    else if(dp[j]+1==dp[i])
+                    else if(dp[i]==dp[j]+1)
                         count[i]+=count[j];
                 }
             }
-           maxx=max(maxx,dp[i]);
+            maxx=max(maxx,dp[i]);
         }
-
         int ans=0;
         for(int i=0;i<n;i++){
-            if(dp[i]==maxx)
-                ans+=count[i];
+            if(dp[i]==maxx) ans+=count[i];
         }
-
         return ans;
     }
 };
