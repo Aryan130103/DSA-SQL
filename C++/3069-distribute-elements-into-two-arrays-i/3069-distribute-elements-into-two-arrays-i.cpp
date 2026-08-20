@@ -5,16 +5,12 @@ public:
         vector<int> s1,s2;
         s1.push_back(nums[0]);
         s2.push_back(nums[1]);
-        int j=0,k=0;
+    
         for(int i=2;i<n;i++){
-            if(s1[j]>s2[k]){
+            if(s1.back()>s2.back())
                 s1.push_back(nums[i]);
-                j++;
-                }
-            else{
+            else
                 s2.push_back(nums[i]);
-                k++;
-            }
         }
         
         for(int i=0;i<s2.size();i++){
