@@ -19,7 +19,7 @@ public:
         vector<vector<int>>dp(c+1,vector<int>(c+1,0));
         //for(int i=0;i<c-1;i++) dp[i][i+1]=0;
        
-        for(int i=c-2;i>0;i--){
+        for(int i=c-2;i>=1;i--){
             for(int j=i;j<=c-2;j++){
                  int minn=1e9;
                 for(int k=i;k<=j;k++){
