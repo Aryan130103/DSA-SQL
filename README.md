@@ -282,6 +282,7 @@ Graph learning progress
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1092-shortest-common-supersequence/) | Hard |
+| [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -460,6 +461,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
+| [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +471,7 @@ Graph learning progress
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
+| [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
