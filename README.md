@@ -216,6 +216,7 @@ Graph learning progress
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0132-palindrome-partitioning-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0198-house-robber/) | Medium |
@@ -278,6 +279,7 @@ Graph learning progress
 | [0115-distinct-subsequences](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0132-palindrome-partitioning-ii/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0583-delete-operation-for-two-strings/) | Medium |
@@ -300,6 +302,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0131-palindrome-partitioning/) | Medium |
 | [0494-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0494-target-sum/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Math
