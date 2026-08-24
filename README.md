@@ -87,6 +87,7 @@ Graph learning progress
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0120-triangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -475,11 +476,13 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -622,4 +625,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
