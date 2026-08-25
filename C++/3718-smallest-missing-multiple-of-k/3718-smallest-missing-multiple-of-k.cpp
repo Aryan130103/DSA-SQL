@@ -10,11 +10,11 @@ public:
         //int n=maxx+2*k;
         //int ans=0;
         unordered_set<int> s(nums.begin(),nums.end());
-        for(int i=1;;i++){
-            if(s.find(k*i)==s.end()){
+        for(int i=k;;i+=k){
+            if(s.find(i)==s.end()){
                 //ans=k*i;
                 //break;
-                return k*i;
+                return i;
             }
         }
         return 0;
