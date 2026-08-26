@@ -18,7 +18,7 @@ struct Node{
     Node* get(char ch){
         return links[ch-'a'];
     }
-
+    
     void setend(){
         flag=true;
     }
@@ -27,21 +27,18 @@ struct Node{
         return flag;
     }
 };
-
 class Trie {
-private:
     Node* root;
 public:
     Trie() {
-        root= new Node();
+        root=new Node();
     }
     
     void insert(string word) {
         Node* node=root;
         for(int i=0;i<word.size();i++){
-            if(!node->contain(word[i])){
+            if(!node->contain(word[i]))
                 node->put(word[i],new Node);
-            }
             node=node->get(word[i]);
         }
         node->setend();
@@ -50,7 +47,7 @@ public:
     bool search(string word) {
         Node* node=root;
         for(int i=0;i<word.size();i++){
-             if(!node->contain(word[i]))
+            if(!node->contain(word[i]))
                 return false;
             
             node=node->get(word[i]);
@@ -63,6 +60,7 @@ public:
         for(int i=0;i<prefix.size();i++){
             if(!node->contain(prefix[i]))
                 return false;
+            
             node=node->get(prefix[i]);
         }
         return true;
