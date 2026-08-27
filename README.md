@@ -116,6 +116,7 @@ Graph learning progress
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0741-cherry-pickup/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0827-making-a-large-island/) | Hard |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
@@ -247,6 +248,7 @@ Graph learning progress
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0741-cherry-pickup](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0741-cherry-pickup/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1043-partition-array-for-maximum-sum/) | Medium |
