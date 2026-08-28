@@ -1,12 +1,9 @@
 class Solution {
 public:
     string lexGreaterPermutation(string s, string t) {
-        vector<int> c(26,0);
-        int n=s.size();
-        for(auto i:s) 
-            c[i-'a']++;
-        for(auto i:t)
-            c[i-'a']--;
+        vector<int> c(26);
+        for(auto i:s) c[i-'a']++;
+        for(auto i:t) c[i-'a']--;
 
         for(int i=t.size()-1;i>=0;i--){
             int cur=t[i]-'a';
@@ -21,24 +18,23 @@ public:
             }
 
             if(!ok) continue;
-             int next=-1;
-            for(int i=cur+1;i<26;i++){
-                if(c[i]>0){
-                    next=i;
+            int next=-1;
+            for(int j=cur+1;j<26;j++){
+                if(c[j]>0){
+                    next=j;
                     break;
                 }
             }
-
             if(next==-1) continue;
             c[next]--;
 
             string ans=t.substr(0,i);
-            ans+=char('a'+next);
+            ans+=char(next+'a');
 
             for(int i=0;i<26;i++){
-                ans.append(c[i],char('a'+i));
-            }   
-
+                if(c[i]>0)
+                    ans.append(c[i],char(i+'a'));
+            }
             return ans;
         }
         return "";
