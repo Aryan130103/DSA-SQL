@@ -1,29 +1,26 @@
 class Solution {
 private:
-    int f(vector<int>& nums) {
-        int n=nums.size();
-        int prev1=nums[0];
-        int prev2=0,curr=0;
-        for(int i=1;i<n;i++){
-            int take=nums[i];
-            if(i>1) take+=prev2;
-            int notake=prev1;
-            curr=max(take,notake);
-            prev2=prev1;
-            prev1=curr;
-        }
-    return prev1;
+    int f(int i,vector<int>& nums, vector<int>& dp){
+        if(i<0) return 0;
+        if(i==0) return nums[0];
+        if(dp[i]!=-1) return dp[i];
+        int notake=f(i-1,nums,dp);
+        int take=nums[i]+f(i-2,nums,dp);
+        
+        return dp[i]=max(take,notake);
     }
-    
+
 public:
     int rob(vector<int>& nums) {
         int n=nums.size();
         if(n==1) return nums[0];
-        vector<int> temp1,temp2;
+        vector<int> dp(n,-1);
+        vector<int> dp1(n,-1);
+        vector<int> a,b;
         for(int i=0;i<n;i++){
-            if(i!=0) temp1.push_back(nums[i]);
-            if(i!=n-1) temp2.push_back(nums[i]);
+            if(i!=0) a.push_back(nums[i]);
+            if(i!=n-1) b.push_back(nums[i]);
         }
-        return max(f(temp1),f(temp2));
+        return max(f(n-2,a,dp),f(n-2,b,dp1));
     }
 };
