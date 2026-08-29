@@ -64,6 +64,7 @@ Graph learning progress
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ Graph learning progress
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -403,6 +405,7 @@ Graph learning progress
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3517-smallest-palindromic-rearrangement-i/) | Medium |
