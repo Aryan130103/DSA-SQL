@@ -677,4 +677,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 <!---LeetCode Topics End-->
