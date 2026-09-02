@@ -689,6 +689,7 @@ Graph learning progress
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
