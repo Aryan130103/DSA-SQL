@@ -138,6 +138,7 @@ Graph learning progress
 | [1563-stone-game-v](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1563-stone-game-v/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1872-stone-game-viii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
@@ -476,6 +477,7 @@ Graph learning progress
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -684,6 +686,7 @@ Graph learning progress
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1707-maximum-xor-with-an-element-from-array/) | Hard |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
