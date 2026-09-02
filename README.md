@@ -159,6 +159,7 @@ Graph learning progress
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +368,7 @@ Graph learning progress
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3875-construct-uniform-parity-array-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
