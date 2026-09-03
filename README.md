@@ -161,6 +161,7 @@ Graph learning progress
 | [3731-find-missing-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +371,7 @@ Graph learning progress
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
