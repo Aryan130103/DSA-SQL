@@ -1,30 +1,17 @@
 class Solution {
-private:
-    int maxx(int x,vector<int>& nums){
-        int maxi=0;
-        int i=0;
-        while(i<=x){
-            maxi=max(maxi,nums[i]);
-            i++;
-        }
-        return  maxi;
-    }
-
-    int minn(int x,vector<int>& nums){
-        int mini=INT_MAX;
-        int n=nums.size();
-        while(x<n){
-            mini=min(mini,nums[x]);
-            x++;
-        }
-        return  mini;
-    }
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n=nums.size();
+        vector<int> minn(n);
+        minn[n-1]=nums[n-1];
+        for(int i=n-2;i>=0;i--){
+            minn[i]=min(minn[i+1],nums[i]);
+        }
+
+        int maxx=0;
         for(int i=0;i<n;i++){
-            int diff=maxx(i,nums)-minn(i,nums);
-            if(diff<=k) return i;
+            maxx=max(maxx,nums[i]);
+            if((maxx-minn[i])<=k) return i;
         }
         return -1;
     }
