@@ -6,20 +6,11 @@ public:
          while(l<=r){
             int mid=(l+r)/2;
             if(nums[mid]==target) return mid;
-            else if(nums[mid]>target){
-                r=mid;
-                r--;
-            }
-            else{
-                l=mid;
-                l++;
-            }
+            else if(nums[mid]>target)
+                r=mid-1;
+            else
+                l=mid+1;
          }
-         for(int i=0;i<n;i++){
-            if(nums[i]>target)
-                return i;
-         }
-         if(nums[n-1]<target) return n;
-         return 0;
+         return l;
     }
 };
