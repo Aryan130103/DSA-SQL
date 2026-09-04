@@ -3,7 +3,7 @@ private:
     int f(int i,int j, vector<vector<int>>& triangle,vector<vector<int>>& dp){
         int n=triangle.size();
         if(i==n-1) return triangle[i][j];
-        if(dp[i][j]!=1e9) return 1e9;
+        if(dp[i][j]!=1e9) return dp[i][j];
         int d=triangle[i][j]+f(i+1,j,triangle,dp);
         int dg=triangle[i][j]+f(i+1,j+1,triangle,dp);
         return dp[i][j]=min(d,dg);
