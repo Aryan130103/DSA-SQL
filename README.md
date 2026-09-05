@@ -164,6 +164,7 @@ Graph learning progress
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3904-smallest-stable-index-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +456,7 @@ Graph learning progress
 | [1872-stone-game-viii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3312-sorted-gcd-pair-queries/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3904-smallest-stable-index-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
