@@ -133,6 +133,7 @@ Graph learning progress
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -184,6 +185,7 @@ Graph learning progress
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -406,6 +408,7 @@ Graph learning progress
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0778-swim-in-rising-water/) | Hard |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
