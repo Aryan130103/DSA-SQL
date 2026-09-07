@@ -86,6 +86,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0001-two-sum/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
@@ -402,6 +403,7 @@ Graph learning progress
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
