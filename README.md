@@ -268,6 +268,7 @@ Graph learning progress
 | [0746-min-cost-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0940-distinct-subsequences-ii/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1092-shortest-common-supersequence/) | Hard |
@@ -323,6 +324,7 @@ Graph learning progress
 | [0516-longest-palindromic-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0583-delete-operation-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1092-shortest-common-supersequence/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
