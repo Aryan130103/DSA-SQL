@@ -109,6 +109,7 @@ Graph learning progress
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0436-find-right-interval](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0494-target-sum/) | Medium |
@@ -408,6 +409,7 @@ Graph learning progress
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
+| [0436-find-right-interval](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0436-find-right-interval/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -422,6 +424,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
+| [0436-find-right-interval](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
