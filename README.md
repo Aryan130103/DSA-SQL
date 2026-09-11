@@ -100,6 +100,7 @@ Graph learning progress
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
@@ -419,6 +420,7 @@ Graph learning progress
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 | [0436-find-right-interval](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0436-find-right-interval/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
