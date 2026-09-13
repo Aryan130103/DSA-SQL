@@ -1,23 +1,26 @@
 class Solution {
 private:
-    int f(int i,int amount,vector<int>& coins, vector<vector<int>>& dp){
-        if(i==0){
-            if(amount%coins[i]==0) return amount/coins[i];
+    int f(int i,int t,auto& coins, auto& dp){
+        if(i==0) {
+            if(t%coins[i]==0) return t/coins[i];
             else return 1e9;
         }
-        if(dp[i][amount]!=-1) return dp[i][amount];
+        
+        if(dp[i][t]!=-1) return dp[i][t];
 
-        int notake=f(i-1,amount,coins,dp);
         int take=1e9;
-        if(coins[i]<=amount)
-            take=1+f(i,amount-coins[i],coins,dp);
-        return dp[i][amount]=min(take,notake);
+        if(coins[i]<=t)
+            take=1+f(i,t-coins[i],coins,dp);
+        int notake=f(i-1,t,coins,dp);
+
+        return dp[i][t]=min(take,notake);
     }
 public:
-    int coinChange(vector<int>& coins, int amount) {
+    int coinChange(vector<int>& coins, int t) {
         int n=coins.size();
-        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-        int ans= f(n-1,amount, coins,dp);
+        vector<vector<int>>dp(n,vector<int>(t+1,-1));
+        int ans=0;
+        ans=f(n-1,t,coins,dp);
         if(ans>=1e9) return -1;
         return ans;
     }
