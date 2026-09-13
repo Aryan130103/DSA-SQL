@@ -367,6 +367,7 @@ Graph learning progress
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0070-climbing-stairs/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0371-sum-of-two-integers/) | Medium |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
@@ -513,6 +514,7 @@ Graph learning progress
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0371-sum-of-two-integers/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1707-maximum-xor-with-an-element-from-array/) | Hard |
