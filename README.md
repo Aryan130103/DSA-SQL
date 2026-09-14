@@ -309,6 +309,7 @@ Graph learning progress
 | [0001-two-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0001-two-sum/) | Easy |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
+| [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
@@ -748,6 +749,7 @@ Graph learning progress
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0981-time-based-key-value-store/) | Medium |
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
@@ -767,6 +769,7 @@ Graph learning progress
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
@@ -805,4 +808,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0852-peak-index-in-a-mountain-array/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
