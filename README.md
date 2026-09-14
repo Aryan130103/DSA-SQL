@@ -376,6 +376,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0070-climbing-stairs/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0367-valid-perfect-square/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
@@ -435,6 +436,7 @@ Graph learning progress
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -791,4 +793,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0836-rectangle-overlap/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
