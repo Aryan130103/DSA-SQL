@@ -382,6 +382,7 @@ Graph learning progress
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1510-stone-game-iv/) | Hard |
@@ -784,4 +785,8 @@ Graph learning progress
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0374-guess-number-higher-or-lower/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
