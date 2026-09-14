@@ -1,7 +1,7 @@
 class Solution {
 private:
     bool finish(vector<int>& piles, int h, int k){
-        long long hours=0;
+        int hours=0;
         for(auto& p:piles){
             hours+=p/k;
             if(p%k!=0) hours++;
