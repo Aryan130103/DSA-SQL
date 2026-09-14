@@ -136,6 +136,7 @@ Graph learning progress
 | [0827-making-a-large-island](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0827-making-a-large-island/) | Hard |
 | [0835-image-overlap](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
@@ -461,6 +462,7 @@ Graph learning progress
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0981-time-based-key-value-store/) | Medium |
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
