@@ -2,12 +2,12 @@ struct Node{
     int key,val;
     Node* prev;
     Node* next;
-    Node(int k,int v):key(k),val(v),prev(nullptr),next(nullptr){}
+    Node(int k,int v):key(k),val(v),prev(nullptr),next(nullptr) {}
 };
 
 class LRUCache {
 public:
-    int cap=0;
+    int cap;
     Node* head;
     Node* tail;
     unordered_map<int,Node*> m;
@@ -22,8 +22,7 @@ public:
     }
     
     int get(int key) {
-        if(m.find(key)==m.end())
-            return -1;
+        if(m.find(key)==m.end()) return -1;
         
         Node* node=m[key];
         deletenode(node);
@@ -42,23 +41,23 @@ public:
         else{
             if(m.size()==cap){
                 Node* node=tail->prev;
-                m.erase(node->key);
                 deletenode(node);
+                m.erase(node->key);
                 delete node;
             }
 
-            Node* node= new Node(key,value);
+            Node* node=new Node(key,value);
             m[key]=node;
             insertnode(node);
         }
     }
 
     void deletenode(Node* node){
-         Node* p=node->prev;
-         Node* n=node->next;
+        Node* p=node->prev;
+        Node* n=node->next;
 
-         p->next=n;
-         n->prev=p;
+        p->next=n;
+        n->prev=p;
     }
 
     void insertnode(Node* node){
