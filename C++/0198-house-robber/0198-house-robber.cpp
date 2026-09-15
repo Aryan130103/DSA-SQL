@@ -1,21 +1,20 @@
 class Solution {
 private:
-    int f(int i,vector<int>& nums, vector<int>& dp){
+    int f(int i,vector<int>& nums,vector<int>& dp){
+        if(i==0) return nums[i];
         if(i<0) return 0;
-        if(i==0) return nums[0];
         if(dp[i]!=-1) return dp[i];
-        int notake=f(i-1,nums,dp);
         int take=0;
-        if(i>=1){
-            take=nums[i]+f(i-2,nums,dp);
-        }
+        if(i>=1)
+        take=nums[i]+f(i-2,nums,dp);
+        int notake=f(i-1,nums,dp);
+
         return dp[i]=max(take,notake);
     }
-
 public:
     int rob(vector<int>& nums) {
-        int n=nums.size();
-        vector<int> dp(n,-1);
-        return f(n-1,nums,dp);
+         int n=nums.size();
+         vector<int> dp(n,-1);
+         return f(n-1,nums,dp);
     }
 };
