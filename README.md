@@ -347,6 +347,7 @@ Graph learning progress
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0072-edit-distance/) | Medium |
@@ -612,6 +613,7 @@ Graph learning progress
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0085-maximal-rectangle/) | Hard |
@@ -870,4 +872,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
