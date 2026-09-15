@@ -88,6 +88,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
@@ -454,6 +455,7 @@ Graph learning progress
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
@@ -854,6 +856,7 @@ Graph learning progress
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
