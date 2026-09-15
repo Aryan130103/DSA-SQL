@@ -93,6 +93,7 @@ Graph learning progress
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0074-search-a-2d-matrix/) | Medium |
@@ -311,6 +312,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
@@ -341,6 +343,7 @@ Graph learning progress
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0005-longest-palindromic-substring/) | Medium |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0115-distinct-subsequences/) | Hard |
@@ -476,6 +479,7 @@ Graph learning progress
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
 | [0436-find-right-interval](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0436-find-right-interval/) | Medium |
