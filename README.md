@@ -116,6 +116,7 @@ Graph learning progress
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0416-partition-equal-subset-sum/) | Medium |
@@ -319,6 +320,7 @@ Graph learning progress
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
@@ -483,6 +485,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
 | [0436-find-right-interval](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0436-find-right-interval/) | Medium |
@@ -518,6 +521,7 @@ Graph learning progress
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -536,6 +540,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0778-swim-in-rising-water/) | Hard |
@@ -848,6 +853,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -856,4 +862,12 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
