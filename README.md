@@ -642,6 +642,7 @@ Graph learning progress
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
+| [0206-reverse-linked-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3483-unique-3-digit-even-numbers/) | Easy |
@@ -820,6 +821,7 @@ Graph learning progress
 | [0002-add-two-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
