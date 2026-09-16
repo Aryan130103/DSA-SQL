@@ -1,28 +1,31 @@
 class Solution {
 private:
-    bool dfs(int node,vector<int>& vis,vector<int>& path,vector<vector<int>> &adj,vector<int>& order){
-        vis[node]=path[node]=1;
-        for(auto it:adj[node]){
-            if(!vis[it]){
-                if(dfs(it,vis,path,adj,order)) return true;
+    bool dfs(int i,vector<int>& vis, vector<int>& path, vector<int>& order, vector<vector<int>>& adj){
+        vis[i]=1;
+        path[i]=1;
+
+        for(auto& it:adj[i]){
+            if(vis[it]==0){
+                if(dfs(it,vis,path,order,adj)) return true;
             }
             else if(path[it]) return true;
         }
-        path[node]=0;
-        order.push_back(node);
+        path[i]=0;
+        order.push_back(i);
         return false;
     }
 public:
-    vector<int> findOrder(int V, vector<vector<int>>& edges) {
-        vector<int> vis(V,0),path(V,0),order;
-        vector<vector<int>>adj(V);
-        for(auto i:edges){
-            adj[i[1]].push_back(i[0]);
+    vector<int> findOrder(int n, vector<vector<int>>& edges) {
+        vector<vector<int>>adj(n);
+        vector<int> vis(n,0),path(n,0),order;
+
+        for(auto& it:edges){
+            adj[it[1]].push_back(it[0]);
         }
 
-        for(int i=0;i<V;i++){
-            if(!vis[i]){
-                if(dfs(i,vis,path,adj,order)) return {};
+        for(int i=0;i<n;i++){
+            if(vis[i]==0){
+                if(dfs(i,vis,path,order,adj)) return {};
             }
         }
 
