@@ -403,6 +403,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0070-climbing-stairs/) | Easy |
