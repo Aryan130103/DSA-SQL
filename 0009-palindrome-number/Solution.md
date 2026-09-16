@@ -7,14 +7,15 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string y= to_string(x);
-        int l=0,r=y.size()-1;
-        while(l<r){
-            if(y[l]!=y[r]) return false;
-            l++;
-            r--;
+        if(x<0) return false;
+        int n=x;
+        long rev=0;
+        
+        while(n){
+            rev=rev*10+n%10;
+            n/=10;
         }
-        return true;
+        return rev==x;
     }
 };
 ```
