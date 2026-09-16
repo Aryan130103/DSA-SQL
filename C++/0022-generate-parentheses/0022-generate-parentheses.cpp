@@ -1,22 +1,21 @@
 class Solution {
 private:
-    void dfs(int op,int cp,string s,int n,vector<string>& ans){
-        if(op==cp && op+cp==2*n){
+    void dfs(int op,int cp,string s,vector<string>& ans,int n){
+        if(op==cp && s.size()==2*n){
             ans.push_back(s);
             return;
         }
 
-        if(op<n){
-            dfs(op+1,cp,s+"(",n,ans);
-        }
-        if(cp<op){
-            dfs(op,cp+1,s+")",n,ans);
-        }
+        if(op<n)
+            dfs(op+1,cp,s+"(",ans,n);
+        
+        if(cp<op)
+            dfs(op,cp+1,s+")",ans,n);
     }
 public:
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        dfs(0,0,"",n,ans);
+        dfs(0,0,"",ans,n);
         return ans;
     }
 };
