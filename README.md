@@ -128,6 +128,7 @@ Graph learning progress
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0518-coin-change-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -488,6 +489,7 @@ Graph learning progress
 | [0374-guess-number-higher-or-lower](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0374-guess-number-higher-or-lower/) | Easy |
 | [0436-find-right-interval](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0441-arranging-coins/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0744-find-smallest-letter-greater-than-target/) | Easy |
