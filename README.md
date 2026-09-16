@@ -335,6 +335,7 @@ Graph learning progress
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -381,6 +382,7 @@ Graph learning progress
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1927-sum-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -622,6 +624,7 @@ Graph learning progress
 | [2029-stone-game-ix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -638,6 +641,7 @@ Graph learning progress
 | [0155-min-stack](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
