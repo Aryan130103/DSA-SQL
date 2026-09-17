@@ -339,6 +339,7 @@ Graph learning progress
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0424-longest-repeating-character-replacement/) | Medium |
+| [0460-lfu-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0460-lfu-cache/) | Hard |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -841,6 +842,7 @@ Graph learning progress
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
+| [0460-lfu-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0460-lfu-cache/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0981-time-based-key-value-store/) | Medium |
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
 ## Trie
@@ -864,6 +866,7 @@ Graph learning progress
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0206-reverse-linked-list/) | Easy |
+| [0460-lfu-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0460-lfu-cache/) | Hard |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
@@ -906,6 +909,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0460-lfu-cache/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
