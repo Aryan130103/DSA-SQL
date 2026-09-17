@@ -114,6 +114,7 @@ Graph learning progress
 | [0198-house-robber](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0213-house-robber-ii/) | Medium |
+| [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0312-burst-balloons/) | Hard |
@@ -327,6 +328,7 @@ Graph learning progress
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
+| [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0424-longest-repeating-character-replacement/) | Medium |
@@ -509,6 +511,7 @@ Graph learning progress
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0056-merge-intervals/) | Medium |
+| [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
@@ -546,6 +549,7 @@ Graph learning progress
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2029-stone-game-ix/) | Medium |
@@ -915,4 +919,8 @@ Graph learning progress
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
