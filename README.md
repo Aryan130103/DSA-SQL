@@ -166,6 +166,7 @@ Graph learning progress
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1872-stone-game-viii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1872-stone-game-viii/) | Hard |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -388,6 +389,7 @@ Graph learning progress
 | [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1927-sum-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1927-sum-game/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -527,6 +529,7 @@ Graph learning progress
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -581,6 +584,7 @@ Graph learning progress
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -903,6 +907,7 @@ Graph learning progress
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -919,6 +924,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
