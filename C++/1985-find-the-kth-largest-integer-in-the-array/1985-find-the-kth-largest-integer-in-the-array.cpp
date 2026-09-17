@@ -1,11 +1,20 @@
 class Solution {
+    struct compare{
+        bool operator()(const string& a,const string& b){
+            if(a.size()!=b.size()) 
+                return a.size()>b.size();
+            return a>b;
+        }
+    };
 public:
     string kthLargestNumber(vector<string>& nums, int k) {
-        int n=nums.size();
-        sort(nums.begin(),nums.end(),[](const string& a,const string& b){
-            if(a.size()!=b.size()) return a.size()>b.size();
-            return a>b;
-        });
-        return nums[k-1];
+        priority_queue<string,vector<string>,compare> pq;
+
+        for(auto& ch:nums){
+            pq.push(ch);
+            if(pq.size()>k)
+                pq.pop();
+        }
+        return pq.top();
     }
 };
