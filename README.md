@@ -97,6 +97,7 @@ Graph learning progress
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0056-merge-intervals/) | Medium |
@@ -200,6 +201,7 @@ Graph learning progress
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0074-search-a-2d-matrix/) | Medium |
@@ -429,6 +431,7 @@ Graph learning progress
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0070-climbing-stairs/) | Easy |
