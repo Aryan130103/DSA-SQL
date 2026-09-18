@@ -337,6 +337,7 @@ Graph learning progress
 | [0001-two-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
@@ -380,6 +381,7 @@ Graph learning progress
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
@@ -442,6 +444,7 @@ Graph learning progress
 | [0002-add-two-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0069-sqrtx/) | Easy |
