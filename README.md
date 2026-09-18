@@ -97,6 +97,7 @@ Graph learning progress
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
@@ -266,6 +267,7 @@ Graph learning progress
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
@@ -923,6 +925,7 @@ Graph learning progress
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Merge Sort
