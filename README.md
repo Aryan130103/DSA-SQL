@@ -139,6 +139,7 @@ Graph learning progress
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
@@ -346,6 +347,7 @@ Graph learning progress
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0460-lfu-cache/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [0819-most-common-word](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0819-most-common-word/) | Easy |
@@ -393,6 +395,7 @@ Graph learning progress
 | [0472-concatenated-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0472-concatenated-words/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0583-delete-operation-for-two-strings/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [0819-most-common-word](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0819-most-common-word/) | Easy |
@@ -545,6 +548,7 @@ Graph learning progress
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
 | [0472-concatenated-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0472-concatenated-words/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
@@ -580,6 +584,7 @@ Graph learning progress
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [0819-most-common-word](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0819-most-common-word/) | Easy |
 | [2029-stone-game-ix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2029-stone-game-ix/) | Medium |
@@ -601,6 +606,7 @@ Graph learning progress
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 | [0743-network-delay-time](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0778-swim-in-rising-water/) | Hard |
@@ -867,6 +873,7 @@ Graph learning progress
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0472-concatenated-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0472-concatenated-words/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1707-maximum-xor-with-an-element-from-array/) | Hard |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
@@ -950,6 +957,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
