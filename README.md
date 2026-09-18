@@ -348,6 +348,7 @@ Graph learning progress
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -394,6 +395,7 @@ Graph learning progress
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1927-sum-game/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -536,6 +538,7 @@ Graph learning progress
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
@@ -646,6 +649,7 @@ Graph learning progress
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1927-sum-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2029-stone-game-ix/) | Medium |
