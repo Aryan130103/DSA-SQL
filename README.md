@@ -91,6 +91,7 @@ Graph learning progress
 | [0001-two-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
@@ -479,6 +480,7 @@ Graph learning progress
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
@@ -526,6 +528,7 @@ Graph learning progress
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
