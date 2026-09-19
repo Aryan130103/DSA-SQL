@@ -12,6 +12,7 @@ Graph learning progress
 | [0207-course-schedule](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0472-concatenated-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0472-concatenated-words/) | Hard |
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
@@ -940,12 +941,14 @@ Graph learning progress
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -1015,4 +1018,12 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0387-first-unique-character-in-a-string/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
