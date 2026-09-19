@@ -124,6 +124,7 @@ Graph learning progress
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -349,6 +350,7 @@ Graph learning progress
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
+| [0217-contains-duplicate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
@@ -558,6 +560,7 @@ Graph learning progress
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0354-russian-doll-envelopes/) | Hard |
