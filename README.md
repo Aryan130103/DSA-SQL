@@ -126,6 +126,7 @@ Graph learning progress
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -621,6 +622,7 @@ Graph learning progress
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0238-product-of-array-except-self/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1872-stone-game-viii/) | Hard |
