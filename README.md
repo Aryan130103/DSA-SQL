@@ -461,6 +461,7 @@ Graph learning progress
 | [0836-rectangle-overlap](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -929,6 +930,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
