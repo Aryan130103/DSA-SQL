@@ -3,8 +3,8 @@ public:
     int maxSubArray(vector<int>& nums) {
         int maxx=INT_MIN;
         int sum=0;
-        for(auto& i:nums){
-            sum=max(sum+i,i);
+        for(auto n:nums){
+            sum=max(sum+n,n);
             maxx=max(maxx,sum);
         }
         return maxx;
