@@ -7,6 +7,7 @@ Graph learning progress
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0210-course-schedule-ii/) | Medium |
@@ -33,6 +34,7 @@ Graph learning progress
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0210-course-schedule-ii/) | Medium |
@@ -919,10 +921,12 @@ Graph learning progress
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
