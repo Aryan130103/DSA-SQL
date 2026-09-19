@@ -15,8 +15,8 @@ public:
                     int del=dp[i-1][j];
                     int replace=dp[i-1][j-1];
                     int insert=dp[i][j-1];
-                    dp[i][j]=1+min({del,insert,replace});
-                }                    
+                    dp[i][j]=1+min({del,replace,insert});
+                }
             }
         }
         return dp[n][m];
