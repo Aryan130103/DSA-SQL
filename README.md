@@ -146,6 +146,7 @@ Graph learning progress
 | [0518-coin-change-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
@@ -361,6 +362,7 @@ Graph learning progress
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0460-lfu-cache/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
@@ -627,6 +629,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1872-stone-game-viii/) | Hard |
