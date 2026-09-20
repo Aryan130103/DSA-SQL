@@ -11,18 +11,17 @@
  */
 class Solution {
 private:
-    void recursion(TreeNode* root,int level,vector<int>& ans){
+    void path(TreeNode* root,int level, vector<int>& ans){
         if(!root) return;
         if(ans.size()==level) ans.push_back(root->val);
 
-        recursion(root->right,level+1,ans);
-        recursion(root->left,level+1,ans);
-    
+        path(root->right,level+1,ans);
+        path(root->left,level+1,ans);
     }
 public:
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ans;
-        recursion(root,0,ans);
+        path(root,0,ans);
         return ans;
     }
 };
