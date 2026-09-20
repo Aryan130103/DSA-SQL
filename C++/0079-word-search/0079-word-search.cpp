@@ -1,33 +1,33 @@
 class Solution {
 private:
-    bool dfs(int r,int c,int i,string &word,vector<vector<char>>& board){
-        int n=board.size();
-        int m=board[0].size();
-        if(r<0 || c<0 || r>=n || c>=m || board[r][c]!=word[i])
-        return false;
+    bool dfs(int i,int j,int x,vector<vector<char>>& b, string& word){
+        int n=b.size();
+        int m=b[0].size();
 
-        if(i==word.size()-1) return true;
+        if(i<0 || j<0 || i>=n ||j>=m || b[i][j]!=word[x]) return false;
 
-        char temp=board[r][c];
-        board[r][c]='@';
-        bool found= (dfs(r-1,c,i+1,word,board)||
-                    dfs(r+1,c,i+1,word,board)||
-                    dfs(r,c-1,i+1,word,board)||
-                    dfs(r,c+1,i+1,word,board)
-                    );
+        if(x==word.size()-1) return true;
+
+        char temp=b[i][j];
+        b[i][j]='@';
+
+        bool found=(dfs(i-1,j,x+1,b,word) ||
+                    dfs(i+1,j,x+1,b,word) ||
+                    dfs(i,j+1,x+1,b,word) ||
+                    dfs(i,j-1,x+1,b,word));
         
-        board[r][c]=temp;
+        b[i][j]=temp;
+        
         return found;
     }
 public:
-    bool exist(vector<vector<char>>& board, string word) {
-        int n=board.size();
-        int m=board[0].size();
+    bool exist(vector<vector<char>>& b, string word) {
+        int n=b.size();
+        int m=b[0].size();
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(dfs(i,j,0,word,board))
-                    return true;
+                if(dfs(i,j,0,b,word)) return true;
             }
         }
         return false;
