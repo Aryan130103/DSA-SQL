@@ -744,6 +744,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0002-add-two-numbers/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
@@ -930,6 +931,7 @@ Graph learning progress
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0025-reverse-nodes-in-k-group/) | Hard |
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0460-lfu-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0460-lfu-cache/) | Hard |
