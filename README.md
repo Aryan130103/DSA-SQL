@@ -102,6 +102,7 @@ Graph learning progress
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
@@ -463,6 +464,7 @@ Graph learning progress
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0039-combination-sum/) | Medium |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0131-palindrome-partitioning/) | Medium |
