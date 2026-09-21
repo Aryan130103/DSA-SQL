@@ -279,6 +279,7 @@ Graph learning progress
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0045-jump-game-ii/) | Medium |
@@ -398,6 +399,7 @@ Graph learning progress
 | [0013-roman-to-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0072-edit-distance/) | Medium |
@@ -722,6 +724,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0085-maximal-rectangle/) | Hard |
@@ -1015,6 +1018,7 @@ Graph learning progress
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
