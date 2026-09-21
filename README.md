@@ -100,6 +100,7 @@ Graph learning progress
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
@@ -215,6 +216,7 @@ Graph learning progress
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
@@ -352,6 +354,7 @@ Graph learning progress
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
