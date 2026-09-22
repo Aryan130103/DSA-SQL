@@ -451,6 +451,7 @@ Graph learning progress
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3498-reverse-degree-of-a-string/) | Easy |
@@ -678,6 +679,7 @@ Graph learning progress
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3499-maximize-active-section-with-trade-i/) | Medium |
