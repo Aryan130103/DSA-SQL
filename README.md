@@ -468,6 +468,7 @@ Graph learning progress
 | [0037-sudoku-solver](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0052-n-queens-ii/) | Hard |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0131-palindrome-partitioning/) | Medium |
@@ -1060,6 +1061,7 @@ Graph learning progress
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0052-n-queens-ii/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
