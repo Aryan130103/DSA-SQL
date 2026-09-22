@@ -1,11 +1,11 @@
 class Solution {
 private:
-    bool valid(int r,int c, vector<vector<char>>& board,char val){
-        for(int i=0;i<9;i++){
-            if(board[r][i]==val || board[i][c]==val) return false;
-            if(board[3*(r/3)+i/3][3*(c/3)+i%3]==val) return false;
-        }
-        return true; 
+    bool valid(int i,int j,vector<vector<char>>& board,char val){
+        for(int x=0;x<9;x++){
+            if(board[x][j]==val || board[i][x]==val) return false;
+            if(board[3*(i/3)+x/3][3*(j/3)+x%3]==val) return false;
+        } 
+        return true;
     }
 
     bool solve(vector<vector<char>>& board){
