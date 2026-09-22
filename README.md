@@ -107,6 +107,7 @@ Graph learning progress
 | [0045-jump-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
@@ -466,6 +467,7 @@ Graph learning progress
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0131-palindrome-partitioning/) | Medium |
@@ -1057,6 +1059,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
