@@ -109,6 +109,7 @@ Graph learning progress
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
@@ -293,6 +294,7 @@ Graph learning progress
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
@@ -724,6 +726,7 @@ Graph learning progress
 | [0011-container-with-most-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
