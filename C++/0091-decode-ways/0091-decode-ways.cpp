@@ -4,19 +4,21 @@ public:
         int n=s.size();
         if(s[0]=='0') return 0;
 
-        vector<int>dp(n+1,0);
-        dp[0]=1;
-        dp[1]=1;
+        int prev1=1,prev2=1;
 
         for(int i=2;i<=n;i++){
             int onedigit=s[i-1]-'0';
             int twodigit=(s[i-2]-'0')*10+onedigit;
 
-            if(onedigit>=1 && onedigit<=9)
-                dp[i]+=dp[i-1];
+            int curr=0;
+
+            if(onedigit>=1)
+                curr+=prev1;
             if(twodigit>=10 && twodigit<=26)
-                dp[i]+=dp[i-2];
+                curr+=prev2;
+            prev2=prev1;
+            prev1=curr;
         }
-        return dp[n];
+        return prev1;
     }
 };
