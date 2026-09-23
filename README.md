@@ -302,6 +302,7 @@ Graph learning progress
 | [0070-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0085-maximal-rectangle/) | Hard |
+| [0091-decode-ways](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -421,6 +422,7 @@ Graph learning progress
 | [0072-edit-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
