@@ -16,24 +16,20 @@ public:
                 int zeros=(j-i+1)-ones;
 
                 if(zeros*zeros>ones){
-                    int wasteindexes=zeros*zeros-ones;
-                    j+=wasteindexes-1;
+                    j+=zeros*zeros-ones-1;
                 }
-                else if(zeros*zeros==ones){
+                else if(zeros*zeros==ones)
                     ans++;
-                }
                 else{
                     ans++;
                     int k=sqrt(ones)-zeros;
                     int next=j+k;
-
                     if(next>=n){
                         ans+=n-j-1;
                         break;
                     }
                     else
                         ans+=k;
-                    
                     j=next;
                 }
             }
