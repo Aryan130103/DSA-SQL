@@ -117,6 +117,7 @@ Graph learning progress
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -542,6 +543,7 @@ Graph learning progress
 | [0011-container-with-most-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
@@ -595,6 +597,7 @@ Graph learning progress
 | [0015-3sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
