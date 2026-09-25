@@ -1,19 +1,22 @@
 struct Node{
     int key,val,cnt;
-    Node* next;
-    Node* prev;
+    Node* prev,*next;
     Node(int a,int b){
         key=a;
         val=b;
         cnt=1;
+        next=nullptr;
+        prev=nullptr;
     }
 };
+
 struct List{
-    int size;
     Node* head;
     Node* tail;
+    int size;
+
     List(){
-        head= new Node(-1,-1);
+        head=new Node(-1,-1);
         tail=new Node(-1,-1);
         head->next=tail;
         tail->prev=head;
@@ -23,58 +26,57 @@ struct List{
     void deletenode(Node* node){
         Node* p=node->prev;
         Node* n=node->next;
+
         p->next=n;
         n->prev=p;
         size--;
     }
 
     void insertnode(Node* node){
-        Node* cur=head->next;
-        node->next=cur;
+        Node* curr=head->next;
+
+        node->next=curr;
         node->prev=head;
         head->next=node;
-        cur->prev=node;
+        curr->prev=node;
         size++;
     }
 };
-
 class LFUCache {
 public:
-    int cap;
     unordered_map<int,Node*> m;
     unordered_map<int,List*> freqlistmap;
-    int minfreq;
-    int cursize;
+    int cap=0;
+    int minfreq,cursize;
 
     LFUCache(int capacity) {
         cap=capacity;
-        minfreq=0;
         cursize=0;
+        minfreq=0;
     }
 
-    void updatefreqlist(Node* node){
+    void updatefreqlistmap(Node* node){
         m.erase(node->key);
         freqlistmap[node->cnt]->deletenode(node);
         if(node->cnt==minfreq && freqlistmap[node->cnt]->size==0)
             minfreq++;
         
-        List* nextHigherFreqList;
+        List* nextgreaterfreqlist;
         if(freqlistmap.find(node->cnt+1)!=freqlistmap.end())
-            nextHigherFreqList=freqlistmap[node->cnt+1];
+            nextgreaterfreqlist=freqlistmap[node->cnt+1];
         else
-            nextHigherFreqList=new List();
+            nextgreaterfreqlist=new List();
 
         node->cnt+=1;
-        nextHigherFreqList->insertnode(node);
-        freqlistmap[node->cnt]=nextHigherFreqList;
+        nextgreaterfreqlist->insertnode(node);
         m[node->key]=node;
-
+        freqlistmap[node->cnt]=nextgreaterfreqlist;
     }
     
     int get(int key) {
         if(m.find(key)!=m.end()){
             Node* node=m[key];
-            updatefreqlist(node);
+            updatefreqlistmap(node);
             return node->val;
         }
         return -1;
@@ -86,15 +88,15 @@ public:
         if(m.find(key)!=m.end()){
             Node* node=m[key];
             node->val=value;
-            updatefreqlist(node);
+            updatefreqlistmap(node);
         }
         else{
             if(cursize==cap){
                 List* list=freqlistmap[minfreq];
                 Node* node=list->tail->prev;
-                m.erase(node->key);
                 freqlistmap[minfreq]->deletenode(node);
-                delete node;
+                m.erase(node->key);
+                delete(node);
                 cursize--;
             }
             cursize++;
