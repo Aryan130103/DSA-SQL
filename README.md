@@ -55,6 +55,7 @@ Graph learning progress
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3310-remove-methods-from-project/) | Medium |
@@ -388,6 +389,7 @@ Graph learning progress
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -447,6 +449,7 @@ Graph learning progress
 | [0981-time-based-key-value-store](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1092-shortest-common-supersequence/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -481,6 +484,7 @@ Graph learning progress
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0131-palindrome-partitioning/) | Medium |
 | [0494-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0494-target-sum/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -616,6 +620,7 @@ Graph learning progress
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -763,6 +768,7 @@ Graph learning progress
 | [0085-maximal-rectangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0085-maximal-rectangle/) | Hard |
 | [0155-min-stack](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 ## Monotonic Stack
