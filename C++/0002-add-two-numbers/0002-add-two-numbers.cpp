@@ -13,12 +13,14 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* dummy=new ListNode(0);
         ListNode* curr=dummy;
-        int c=0;
+        int sum=0,c=0;
 
         while(l1!=nullptr || l2!=nullptr || c!=0){
-            int a =(l1!=nullptr)?l1->val:0;
-            int b =(l2!=nullptr)?l2->val:0;
-            int sum=a+b+c;
+
+            int a=l1!=nullptr?l1->val:0;
+            int b=l2!=nullptr?l2->val:0;
+
+            sum=a+b+c;
             c=sum/10;
 
             curr->next=new ListNode(sum%10);
