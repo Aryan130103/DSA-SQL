@@ -336,6 +336,7 @@ Graph learning progress
 | [0741-cherry-pickup](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0788-rotated-digits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0940-distinct-subsequences-ii/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1043-partition-array-for-maximum-sum/) | Medium |
@@ -511,6 +512,7 @@ Graph learning progress
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
+| [0788-rotated-digits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0788-rotated-digits/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
