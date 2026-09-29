@@ -200,6 +200,7 @@ Graph learning progress
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -250,6 +251,7 @@ Graph learning progress
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -358,6 +360,7 @@ Graph learning progress
 | [1872-stone-game-viii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1872-stone-game-viii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3524-find-x-value-of-array-i/) | Medium |
@@ -1074,6 +1077,7 @@ Graph learning progress
 | [0032-longest-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
