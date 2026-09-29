@@ -5,9 +5,7 @@ private:
         int m=grid[0].size();
         if(i>=n || j>=m) return false;
 
-        if(grid[i][j]=='(') b++;
-        else
-            b--;
+        b+=(grid[i][j]=='(')?1:-1;
 
         if(b<0) return false;
         if(i==n-1 && j==m-1) return b==0;
