@@ -6,6 +6,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0098-validate-binary-search-tree/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
@@ -1012,6 +1013,7 @@ Graph learning progress
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0098-validate-binary-search-tree/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -1019,6 +1021,7 @@ Graph learning progress
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0098-validate-binary-search-tree/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -1114,4 +1117,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0037-sudoku-solver/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
