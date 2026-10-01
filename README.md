@@ -507,6 +507,7 @@ Graph learning progress
 | [0012-integer-to-roman](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0070-climbing-stairs/) | Easy |
@@ -804,6 +805,7 @@ Graph learning progress
 | [0002-add-two-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
