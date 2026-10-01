@@ -566,6 +566,7 @@ Graph learning progress
 | [0015-3sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0088-merge-sorted-array/) | Easy |
+| [0143-reorder-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
@@ -780,6 +781,7 @@ Graph learning progress
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0085-maximal-rectangle/) | Hard |
+| [0143-reorder-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
@@ -801,6 +803,7 @@ Graph learning progress
 | [0002-add-two-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
+| [0143-reorder-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
@@ -989,6 +992,7 @@ Graph learning progress
 | [0002-add-two-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0025-reverse-nodes-in-k-group/) | Hard |
+| [0143-reorder-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0460-lfu-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0460-lfu-cache/) | Hard |
