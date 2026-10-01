@@ -210,6 +210,7 @@ Graph learning progress
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3285-find-indices-of-stable-mountains](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3285-find-indices-of-stable-mountains/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3483-unique-3-digit-even-numbers/) | Easy |
