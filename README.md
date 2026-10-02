@@ -188,6 +188,7 @@ Graph learning progress
 | [1463-cherry-pickup-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1487-making-file-names-unique](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1487-making-file-names-unique/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1563-stone-game-v/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
@@ -402,6 +403,7 @@ Graph learning progress
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1487-making-file-names-unique](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1487-making-file-names-unique/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -465,6 +467,7 @@ Graph learning progress
 | [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1487-making-file-names-unique](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1487-making-file-names-unique/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
