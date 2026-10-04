@@ -1135,4 +1135,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0098-validate-binary-search-tree/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
