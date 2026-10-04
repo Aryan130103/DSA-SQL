@@ -387,6 +387,7 @@ Graph learning progress
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
@@ -449,6 +450,7 @@ Graph learning progress
 | [0151-reverse-words-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
+| [0242-valid-anagram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0412-fizz-buzz/) | Easy |
@@ -638,6 +640,7 @@ Graph learning progress
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0354-russian-doll-envelopes/) | Hard |
