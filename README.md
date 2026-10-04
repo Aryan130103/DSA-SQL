@@ -130,6 +130,7 @@ Graph learning progress
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
@@ -384,6 +385,7 @@ Graph learning progress
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
+| [0169-majority-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
@@ -637,6 +639,7 @@ Graph learning progress
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
@@ -686,6 +689,7 @@ Graph learning progress
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0387-first-unique-character-in-a-string/) | Easy |
@@ -1081,6 +1085,7 @@ Graph learning progress
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -1117,6 +1122,7 @@ Graph learning progress
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0229-majority-element-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
