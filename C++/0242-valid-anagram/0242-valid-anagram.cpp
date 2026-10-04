@@ -5,9 +5,16 @@ public:
         int b=t.size();
         if(a!=b) return false;
 
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
+        unordered_map<char,int> m;
 
-        return s==t;
+        for(auto& i:s) m[i]++;
+
+        for(auto& i:t){
+            if(!m.count(i)) return false;
+            m[i]--;
+            if(m[i]<0)
+                return false;
+        }
+        return true;
     }
 };
