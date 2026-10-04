@@ -19,7 +19,7 @@ public:
         vector<int> vis(n,0);
         vector<int> path(n,0);
 
-        for(auto it:edges){
+        for(auto& it:edges){
             adj[it[1]].push_back(it[0]);
         }
 
