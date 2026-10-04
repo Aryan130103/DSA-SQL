@@ -11,7 +11,6 @@ public:
             q.pop();
 
             if(word==endWord) return cnt;
-
             for(int i=0;i<word.size();i++){
                 char og=word[i];
                 for(char ch='a';ch<='z';ch++){
