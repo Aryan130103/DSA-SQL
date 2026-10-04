@@ -338,6 +338,7 @@ Graph learning progress
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0583-delete-operation-for-two-strings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0741-cherry-pickup](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0741-cherry-pickup/) | Hard |
@@ -453,6 +454,7 @@ Graph learning progress
 | [0472-concatenated-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0472-concatenated-words/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0583-delete-operation-for-two-strings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
@@ -765,6 +767,7 @@ Graph learning progress
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1247-minimum-swaps-to-make-strings-equal/) | Medium |
@@ -794,6 +797,7 @@ Graph learning progress
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -1096,6 +1100,7 @@ Graph learning progress
 | [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
