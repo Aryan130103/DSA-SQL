@@ -466,6 +466,7 @@ Graph learning progress
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [0819-most-common-word](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0819-most-common-word/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0940-distinct-subsequences-ii/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
@@ -813,6 +814,7 @@ Graph learning progress
 | [0155-min-stack](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0856-score-of-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -1119,6 +1121,7 @@ Graph learning progress
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
