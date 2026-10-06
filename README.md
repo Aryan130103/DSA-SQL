@@ -294,6 +294,7 @@ Graph learning progress
 | [1683-invalid-tweets](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1683-invalid-tweets/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1789-primary-department-for-each-employee/) | Easy |
 | [1934-confirmation-rate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Topological Sort
