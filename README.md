@@ -756,6 +756,7 @@ Graph learning progress
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0371-sum-of-two-integers/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0461-hamming-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0461-hamming-distance/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
