@@ -116,6 +116,7 @@ Graph learning progress
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0085-maximal-rectangle/) | Hard |
@@ -512,6 +513,7 @@ Graph learning progress
 | [0039-combination-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0052-n-queens-ii/) | Hard |
+| [0078-subsets](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0131-palindrome-partitioning/) | Medium |
@@ -755,6 +757,7 @@ Graph learning progress
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0191-number-of-1-bits/) | Easy |
