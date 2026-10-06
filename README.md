@@ -126,6 +126,7 @@ Graph learning progress
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -751,6 +752,7 @@ Graph learning progress
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
