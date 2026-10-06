@@ -529,6 +529,7 @@ Graph learning progress
 | [0009-palindrome-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
@@ -762,6 +763,7 @@ Graph learning progress
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0137-single-number-ii/) | Medium |
