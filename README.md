@@ -760,6 +760,7 @@ Graph learning progress
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2595-number-of-even-and-odd-bits/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3513-number-of-unique-xor-triplets-i/) | Medium |
