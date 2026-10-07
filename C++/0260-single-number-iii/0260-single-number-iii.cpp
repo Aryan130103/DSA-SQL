@@ -2,15 +2,16 @@ class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
         long long x=0;
-        for(auto& n:nums) x^=n;
+        
+        for(auto& i:nums) x^=i;
 
         long long bit=x&(-x);
 
         int a=0,b=0;
         for(auto& n:nums){
-            if(n&bit)
+            if(n& bit)
                 a^=n;
-            else
+            else 
                 b^=n;
         }
         return {a,b};
