@@ -270,6 +270,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0175-combine-two-tables/) | Easy |
+| [0180-consecutive-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0550-game-play-analysis-iv/) | Medium |
