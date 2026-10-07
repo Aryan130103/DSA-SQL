@@ -146,6 +146,7 @@ Graph learning progress
 | [0260-single-number-iii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0312-burst-balloons/) | Hard |
@@ -600,6 +601,7 @@ Graph learning progress
 | [0143-reorder-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
@@ -623,6 +625,7 @@ Graph learning progress
 | [0162-find-peak-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0354-russian-doll-envelopes/) | Hard |
 | [0367-valid-perfect-square](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0367-valid-perfect-square/) | Easy |
@@ -772,6 +775,7 @@ Graph learning progress
 | [0231-power-of-two](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0371-sum-of-two-integers/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0461-hamming-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0461-hamming-distance/) | Easy |
@@ -1196,4 +1200,12 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0239-sliding-window-maximum/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
