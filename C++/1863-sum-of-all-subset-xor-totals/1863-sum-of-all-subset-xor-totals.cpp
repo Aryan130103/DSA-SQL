@@ -1,8 +1,8 @@
 class Solution {
 public:
     int subsetXORSum(vector<int>& nums) {
-        int sum=0;
         int n=nums.size();
+        int sum=0;
         for(int mask=0;mask<(1<<n);mask++){
             int x=0;
             for(int i=0;i<n;i++){
@@ -11,7 +11,6 @@ public:
             }
             sum+=x;
         }
-
         return sum;
     }
 };
