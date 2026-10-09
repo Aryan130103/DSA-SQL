@@ -495,6 +495,7 @@ Graph learning progress
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1487-making-file-names-unique](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1487-making-file-names-unique/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1927-sum-game/) | Medium |
@@ -826,6 +827,7 @@ Graph learning progress
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1927-sum-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2029-stone-game-ix/) | Medium |
@@ -858,6 +860,7 @@ Graph learning progress
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 ## Monotonic Stack
@@ -1167,6 +1170,7 @@ Graph learning progress
 | [1021-remove-outermost-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
