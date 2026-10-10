@@ -3,17 +3,17 @@ public:
     int minInsertions(string s) {
         int open=0,ans=0;
         for(int i=0;i<s.size();i++){
-            if(s[i]=='('){
+            if(s[i]=='(')
                 open++;
-            }
             else{
-                if(i+1<s.size() && s[i+1]==')'){
+                if(i+1<s.size() && s[i+1]==')')
                     i++;
-                } 
-                else ans++;
+                else
+                    ans++;
                 
                 if(open>0) open--;
-                else ans++;
+                else
+                    ans++;
             }
         }
         return ans+2*open;
