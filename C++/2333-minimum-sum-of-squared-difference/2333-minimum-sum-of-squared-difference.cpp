@@ -15,7 +15,7 @@ public:
 
         if(sum<=k) return 0;
 
-        for(int i=maxx;i>=0 && k>0;i--){
+        for(int i=maxx;i>=1 && k>0;i--){
             long long move=min(k,(long long)freq[i]);
             freq[i]-=move;
             freq[i-1]+=move;
