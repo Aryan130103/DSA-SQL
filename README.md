@@ -301,6 +301,7 @@ Graph learning progress
 | [1251-average-selling-price](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1321-restaurant-growth/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1484-group-sold-products-by-the-date/) | Easy |
