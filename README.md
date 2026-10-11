@@ -272,6 +272,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0185-department-top-three-salaries/) | Hard |
