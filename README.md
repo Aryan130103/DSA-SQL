@@ -154,6 +154,7 @@ Graph learning progress
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0380-insert-delete-getrandom-o1/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0436-find-right-interval](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0436-find-right-interval/) | Medium |
@@ -423,6 +424,7 @@ Graph learning progress
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0380-insert-delete-getrandom-o1/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0387-first-unique-character-in-a-string/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0424-longest-repeating-character-replacement/) | Medium |
@@ -568,6 +570,7 @@ Graph learning progress
 | [0367-valid-perfect-square](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0367-valid-perfect-square/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0371-sum-of-two-integers/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0380-insert-delete-getrandom-o1/) | Medium |
 | [0412-fizz-buzz](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
@@ -1066,6 +1069,7 @@ Graph learning progress
 | [0146-lru-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0380-insert-delete-getrandom-o1/) | Medium |
 | [0460-lfu-cache](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0460-lfu-cache/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0981-time-based-key-value-store/) | Medium |
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
@@ -1245,4 +1249,8 @@ Graph learning progress
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
