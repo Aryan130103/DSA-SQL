@@ -216,6 +216,7 @@ Graph learning progress
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -780,6 +781,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3483-unique-3-digit-even-numbers/) | Easy |
