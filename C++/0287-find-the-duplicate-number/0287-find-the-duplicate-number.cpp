@@ -2,7 +2,7 @@ class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
         int n=nums.size();
-        int l=0,r=n;
+        int l=1,r=n-1;
         
         while(l<r){
             int c=0;
