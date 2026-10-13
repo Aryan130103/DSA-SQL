@@ -492,6 +492,7 @@ Graph learning progress
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0242-valid-anagram/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0412-fizz-buzz/) | Easy |
@@ -574,6 +575,7 @@ Graph learning progress
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0273-integer-to-english-words/) | Hard |
 | [0367-valid-perfect-square](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0367-valid-perfect-square/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0371-sum-of-two-integers/) | Medium |
@@ -917,6 +919,7 @@ Graph learning progress
 | [0206-reverse-linked-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0231-power-of-two/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0273-integer-to-english-words/) | Hard |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3483-unique-3-digit-even-numbers/) | Easy |
