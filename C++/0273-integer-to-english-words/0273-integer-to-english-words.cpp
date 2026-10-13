@@ -1,15 +1,15 @@
 class Solution {
 private:   
-    string convert(int num){
-        string below20[]={"", "One", "Two", "Three", "Four", "Five",
+    string below20[20]={"", "One", "Two", "Three", "Four", "Five",
         "Six", "Seven", "Eight", "Nine", "Ten",
         "Eleven", "Twelve", "Thirteen", "Fourteen",
         "Fifteen", "Sixteen", "Seventeen", "Eighteen",
         "Nineteen"};
 
-        string tens[]={"", "", "Twenty", "Thirty", "Forty",
+    string tens[10]={"", "", "Twenty", "Thirty", "Forty",
         "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
 
+    string convert(int num){
         if(num==0) return "";
         if(num<20) return below20[num];
 
