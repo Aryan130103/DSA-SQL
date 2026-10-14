@@ -613,6 +613,7 @@ Graph learning progress
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3871-count-commas-in-range-ii/) | Medium |
@@ -880,6 +881,7 @@ Graph learning progress
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
