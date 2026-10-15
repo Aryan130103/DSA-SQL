@@ -183,6 +183,7 @@ Graph learning progress
 | [0819-most-common-word](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0819-most-common-word/) | Easy |
 | [0827-making-a-large-island](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0827-making-a-large-island/) | Hard |
 | [0835-image-overlap](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0835-image-overlap/) | Medium |
+| [0849-maximize-distance-to-closest-person](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0849-maximize-distance-to-closest-person/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
