@@ -188,6 +188,7 @@ Graph learning progress
 | [0875-koko-eating-bananas](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
@@ -684,6 +685,7 @@ Graph learning progress
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0981-time-based-key-value-store/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
