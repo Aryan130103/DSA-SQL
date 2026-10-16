@@ -75,6 +75,7 @@ Graph learning progress
 | [0827-making-a-large-island](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -518,6 +519,7 @@ Graph learning progress
 | [0981-time-based-key-value-store](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0981-time-based-key-value-store/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1092-shortest-common-supersequence/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1106-parsing-a-boolean-expression/) | Hard |
