@@ -240,6 +240,7 @@ Graph learning progress
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -469,6 +470,7 @@ Graph learning progress
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -737,6 +739,7 @@ Graph learning progress
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
