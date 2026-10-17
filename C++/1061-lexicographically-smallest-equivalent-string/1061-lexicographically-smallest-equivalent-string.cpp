@@ -1,7 +1,7 @@
-class Disjoint{
-  public:
+class disjoint {
+public:
     vector<int> parent;
-    Disjoint(int n){
+    disjoint(int n){
         parent.resize(n+1);
         for(int i=0;i<n;i++)
             parent[i]=i;
@@ -17,16 +17,16 @@ class Disjoint{
         int VP=ult_p(v);
         if(UP==VP) return;
 
-        if(UP<VP)
-            parent[VP]=UP;
-        else
+        if(UP>VP)
             parent[UP]=VP;
-    }  
+        else
+            parent[VP]=UP;
+    }
 };
 class Solution {
 public:
     string smallestEquivalentString(string s1, string s2, string baseStr) {
-        Disjoint d(26);
+        disjoint d(26);
 
         for(int i=0;i<s1.size();i++){
             d.unionbysize(s1[i]-'a',s2[i]-'a');
