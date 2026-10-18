@@ -77,6 +77,7 @@ Graph learning progress
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Graph Theory
@@ -206,6 +207,7 @@ Graph learning progress
 | [1487-making-file-names-unique](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1487-making-file-names-unique/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -404,6 +406,7 @@ Graph learning progress
 | [1510-stone-game-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1510-stone-game-iv/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1872-stone-game-viii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1872-stone-game-viii/) | Hard |
@@ -604,6 +607,7 @@ Graph learning progress
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1872-stone-game-viii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1872-stone-game-viii/) | Hard |
@@ -755,6 +759,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -857,6 +862,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0070-climbing-stairs/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1155,6 +1161,7 @@ Graph learning progress
 | [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -1163,6 +1170,7 @@ Graph learning progress
 | [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -1201,6 +1209,7 @@ Graph learning progress
 | [0191-number-of-1-bits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -1268,6 +1277,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0098-validate-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1289,4 +1299,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0380-insert-delete-getrandom-o1/) | Medium |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
