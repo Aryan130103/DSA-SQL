@@ -197,6 +197,7 @@ Graph learning progress
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1260-shift-2d-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -399,6 +400,7 @@ Graph learning progress
 | [1092-shortest-common-supersequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1092-shortest-common-supersequence/) | Hard |
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1143-longest-common-subsequence/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -701,6 +703,7 @@ Graph learning progress
 | [0981-time-based-key-value-store](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0981-time-based-key-value-store/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
@@ -736,6 +739,7 @@ Graph learning progress
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1547-minimum-cost-to-cut-a-stick/) | Hard |
