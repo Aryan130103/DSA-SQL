@@ -504,6 +504,7 @@ Graph learning progress
 | [0151-reverse-words-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0242-valid-anagram/) | Easy |
 | [0273-integer-to-english-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0290-word-pattern/) | Easy |
@@ -588,6 +589,7 @@ Graph learning progress
 | [0070-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
 | [0273-integer-to-english-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0273-integer-to-english-words/) | Hard |
@@ -916,6 +918,7 @@ Graph learning progress
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0224-basic-calculator/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0227-basic-calculator-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0921-minimum-add-to-make-parentheses-valid/) | Medium |
