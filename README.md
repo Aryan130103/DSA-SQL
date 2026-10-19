@@ -608,6 +608,7 @@ Graph learning progress
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -888,6 +889,7 @@ Graph learning progress
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
