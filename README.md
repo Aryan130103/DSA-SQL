@@ -193,6 +193,7 @@ Graph learning progress
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
@@ -613,6 +614,7 @@ Graph learning progress
 | [0788-rotated-digits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0788-rotated-digits/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0877-stone-game/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0973-k-closest-points-to-origin/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -744,6 +746,7 @@ Graph learning progress
 | [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1048-longest-string-chain/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -822,6 +825,7 @@ Graph learning progress
 | [0767-reorganize-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0767-reorganize-string/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -1202,6 +1206,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0836-rectangle-overlap/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0973-k-closest-points-to-origin/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -1230,6 +1235,7 @@ Graph learning progress
 | [0191-number-of-1-bits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0973-k-closest-points-to-origin/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Merge Sort
@@ -1250,6 +1256,7 @@ Graph learning progress
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0973-k-closest-points-to-origin/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -1324,4 +1331,8 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
