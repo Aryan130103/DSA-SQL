@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int minOperations(string s) {
+        char mn=*min_element(s.begin(),s.end());
+        char mx=*max_element(s.begin(),s.end());
+
+        int n=s.size();
+
+        if(is_sorted(s.begin(),s.end())) return 0;
+        if(n==2) return -1;
+
+        if(s[0]==mn || s[n-1]==mx) return 1;
+
+        for(int i=1;i<n-1;i++){
+            if(s[i]==mx || s[i]==mn) 
+                return 2;
+        }
+        
+        return 3;
+    }
+};
