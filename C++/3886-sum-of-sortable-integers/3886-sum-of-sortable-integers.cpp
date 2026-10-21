@@ -16,7 +16,7 @@ public:
             bool ok=true;
             for(int s=0;s<n;s+=k){
                 int drop=0;
-                int mn=nums[0],mx=nums[0];
+                int mn=nums[s],mx=nums[s];
                 int e=s+k-1;
 
                 for(int j=s;j<=e;j++){
