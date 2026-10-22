@@ -261,6 +261,7 @@ Graph learning progress
 | [3886-sum-of-sortable-integers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
