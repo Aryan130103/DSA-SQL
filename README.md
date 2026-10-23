@@ -251,6 +251,7 @@ Graph learning progress
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -880,6 +881,7 @@ Graph learning progress
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
