@@ -555,6 +555,7 @@ Graph learning progress
 | [1927-sum-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1927-sum-game/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2409-count-days-spent-together](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2409-count-days-spent-together/) | Easy |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -631,6 +632,7 @@ Graph learning progress
 | [1872-stone-game-viii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2409-count-days-spent-together/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
