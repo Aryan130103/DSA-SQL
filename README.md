@@ -29,6 +29,7 @@ Graph learning progress
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1192-critical-connections-in-a-network/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -61,6 +62,7 @@ Graph learning progress
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3310-remove-methods-from-project/) | Medium |
@@ -79,6 +81,7 @@ Graph learning progress
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1061-lexicographically-smallest-equivalent-string/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1631-path-with-minimum-effort/) | Medium |
@@ -203,6 +206,7 @@ Graph learning progress
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1146-snapshot-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1146-snapshot-array/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -287,6 +291,7 @@ Graph learning progress
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
