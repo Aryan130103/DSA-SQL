@@ -38,6 +38,7 @@ Graph learning progress
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
@@ -1201,6 +1202,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0098-validate-binary-search-tree/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -1210,6 +1212,7 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0098-validate-binary-search-tree/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
