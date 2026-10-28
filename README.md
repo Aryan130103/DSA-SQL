@@ -268,6 +268,7 @@ Graph learning progress
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3904-smallest-stable-index-ii/) | Medium |
@@ -305,6 +306,7 @@ Graph learning progress
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +441,7 @@ Graph learning progress
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3524-find-x-value-of-array-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -896,6 +899,7 @@ Graph learning progress
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
