@@ -1,13 +1,13 @@
 class Solution {
 public:
-    void merge(vector<int>& nums1, int n, vector<int>& nums2, int m) {
-        int i=n-1,j=m-1,x=n+m-1;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int len=m+n-1;
+        int i=m-1,j=n-1;
         while(j>=0){
-            if(i>=0 && nums1[i]>nums2[j]){
-                nums1[x--]=nums1[i--];
-            }
+            if(i>=0 && nums1[i]>nums2[j])
+                nums1[len--]=nums1[i--];
             else
-                nums1[x--]=nums2[j--];
+                nums1[len--]=nums2[j--];
         }
     }
 };
