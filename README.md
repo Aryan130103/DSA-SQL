@@ -114,6 +114,7 @@ Graph learning progress
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -687,6 +688,7 @@ Graph learning progress
 | [0005-longest-palindromic-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0088-merge-sorted-array/) | Easy |
