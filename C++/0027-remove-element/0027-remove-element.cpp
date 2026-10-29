@@ -18,9 +18,9 @@ public:
             q.pop();
         }
         
-        for(int i=0;i<freq[val];i++)
-            nums.pop_back();
+        //for(int i=0;i<freq[val];i++)
+         //   nums.pop_back();
         
-        return nums.size();
+        return nums.size()-freq[val];
     }
 };
