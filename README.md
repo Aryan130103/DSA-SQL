@@ -132,6 +132,7 @@ Graph learning progress
 | [0056-merge-intervals](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
@@ -619,6 +620,7 @@ Graph learning progress
 | [0048-rotate-image](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
