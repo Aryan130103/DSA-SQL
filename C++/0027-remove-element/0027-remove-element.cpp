@@ -6,20 +6,16 @@ public:
         for(auto& i:nums)
             freq[i]++;
         
-        queue<int> q;
-        for(auto& i:nums){
-            if(i!=val)
-                q.push(i);
+        int l=0,r=n-1;
+        while(l<r){
+            if(nums[l]==val && nums[r]!=val)
+                swap(nums[l++],nums[r--]);
+            else if(nums[l]==val){
+                r--;   
+            }
+            else
+            l++;
         }
-
-        int i=0;
-        while(!q.empty()){
-            nums[i++]=q.front();
-            q.pop();
-        }
-        
-        //for(int i=0;i<freq[val];i++)
-         //   nums.pop_back();
         
         return nums.size()-freq[val];
     }
