@@ -4,14 +4,13 @@ public:
         int n=prices.size();
         vector<vector<int>>dp(n+1,vector<int>(2,0));
 
-       
         for(int i=n-1;i>=0;i--){
             for(int b=0;b<=1;b++){
-                 int profit;
+                int profit=0;
                 if(b)
-                    profit=max(-prices[i]+dp[i+1][0],dp[i+1][1]);
+                    profit= max(-prices[i]+dp[i+1][0],dp[i+1][1]);
                 else
-                    profit=max(prices[i]+dp[i+1][1],dp[i+1][0]);
+                    profit= max(prices[i]+dp[i+1][1],dp[i+1][0]);
 
                 dp[i][b]=profit;
             }
