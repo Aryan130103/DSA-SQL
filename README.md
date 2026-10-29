@@ -135,6 +135,7 @@ Graph learning progress
 | [0074-search-a-2d-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0088-merge-sorted-array/) | Easy |
@@ -691,6 +692,7 @@ Graph learning progress
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0141-linked-list-cycle/) | Easy |
