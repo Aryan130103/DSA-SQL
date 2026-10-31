@@ -6,12 +6,11 @@ public:
         int len=prefix.size();
         for(int i=1;i<n;i++){
             string s=strs[i];
-            while(len>s.size() || prefix!=s.substr(0,len)){
+            while(len>s.size() || prefix.substr(0,len)!=s.substr(0,len)){
                 len--;
                 if(len==0) return "";
-                prefix=prefix.substr(0,len);
             }
         }
-        return prefix;
+        return prefix.substr(0,len);
     }
 };
