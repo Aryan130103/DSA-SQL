@@ -527,6 +527,7 @@ Graph learning progress
 | [0032-longest-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
