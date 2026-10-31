@@ -3,14 +3,15 @@ public:
     string longestCommonPrefix(vector<string>& strs) {
         int n=strs.size();
         string prefix=strs[0];
-        int len=prefix.size();
+    
         for(int i=1;i<n;i++){
-            string s=strs[i];
-            while(len>s.size() || prefix.substr(0,len)!=s.substr(0,len)){
-                len--;
-                if(len==0) return "";
+            int j=0;
+            while(j<prefix.size() && j<strs[i].size() && prefix[j]==strs[i][j]){
+                j++;
             }
+            prefix=prefix.substr(0,j);
+            if(prefix.size()==0) return "";
         }
-        return prefix.substr(0,len);
+        return prefix;
     }
 };
