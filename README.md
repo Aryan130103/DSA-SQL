@@ -527,6 +527,7 @@ Graph learning progress
 | [0014-longest-common-prefix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
@@ -703,6 +704,7 @@ Graph learning progress
 | [0015-3sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0088-merge-sorted-array/) | Easy |
@@ -1393,4 +1395,20 @@ Graph learning progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0973-k-closest-points-to-origin/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
