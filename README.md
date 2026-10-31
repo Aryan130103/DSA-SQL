@@ -114,6 +114,7 @@ Graph learning progress
 | [0001-two-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0027-remove-element/) | Easy |
@@ -522,6 +523,7 @@ Graph learning progress
 | [0008-string-to-integer-atoi](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
@@ -1192,6 +1194,7 @@ Graph learning progress
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0472-concatenated-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0472-concatenated-words/) | Hard |
