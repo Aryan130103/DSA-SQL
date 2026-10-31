@@ -135,6 +135,7 @@ Graph learning progress
 | [0063-unique-paths-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
@@ -532,6 +533,7 @@ Graph learning progress
 | [0044-wildcard-matching](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0058-length-of-last-word/) | Easy |
+| [0068-text-justification](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0079-word-search/) | Medium |
@@ -817,6 +819,7 @@ Graph learning progress
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0068-text-justification/) | Hard |
 | [0412-fizz-buzz](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1260-shift-2d-grid/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3069-distribute-elements-into-two-arrays-i/) | Easy |
