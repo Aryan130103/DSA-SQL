@@ -156,6 +156,7 @@ Graph learning progress
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0189-rotate-array/) | Medium |
@@ -719,6 +720,7 @@ Graph learning progress
 | [0141-linked-list-cycle](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
@@ -746,6 +748,7 @@ Graph learning progress
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
