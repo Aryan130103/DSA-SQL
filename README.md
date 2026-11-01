@@ -413,6 +413,7 @@ Graph learning progress
 | [0322-coin-change](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0322-coin-change/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
+| [0392-is-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0416-partition-equal-subset-sum/) | Medium |
 | [0472-concatenated-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0472-concatenated-words/) | Hard |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
@@ -555,6 +556,7 @@ Graph learning progress
 | [0273-integer-to-english-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0443-string-compression/) | Medium |
@@ -720,6 +722,7 @@ Graph learning progress
 | [0189-rotate-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
+| [0392-is-subsequence](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
