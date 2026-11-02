@@ -162,6 +162,7 @@ Graph learning progress
 | [0189-rotate-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0217-contains-duplicate/) | Easy |
@@ -753,6 +754,7 @@ Graph learning progress
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0287-find-the-duplicate-number/) | Medium |
@@ -867,6 +869,7 @@ Graph learning progress
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/1140-stone-game-ii/) | Medium |
@@ -1102,6 +1105,7 @@ Graph learning progress
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0424-longest-repeating-character-replacement/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0718-maximum-length-of-repeated-subarray/) | Medium |
