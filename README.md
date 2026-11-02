@@ -187,6 +187,7 @@ Graph learning progress
 | [0436-find-right-interval](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0436-find-right-interval/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0472-concatenated-words/) | Hard |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0494-target-sum/) | Medium |
@@ -656,6 +657,7 @@ Graph learning progress
 | [0412-fizz-buzz](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
@@ -800,6 +802,7 @@ Graph learning progress
 | [0368-largest-divisible-subset](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0368-largest-divisible-subset/) | Medium |
 | [0436-find-right-interval](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0472-concatenated-words/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0692-top-k-frequent-words/) | Medium |
