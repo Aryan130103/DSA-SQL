@@ -281,6 +281,7 @@ Graph learning progress
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3875-construct-uniform-parity-array-i/) | Easy |
@@ -694,6 +695,7 @@ Graph learning progress
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3871-count-commas-in-range-ii/) | Medium |
